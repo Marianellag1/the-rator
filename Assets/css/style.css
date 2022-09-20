@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(216, 12%, 8%);
+}
+
+main {
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+}
+
+p {
+    color: hsl(217, 12%, 63%);
+}
+
+.container {
+    background-color: hsl(213, 19%, 18%);
+}
+
+/* .rate-button {
+    text-align: center;
+} */
+
+.btn-primary {
+    background-color: hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

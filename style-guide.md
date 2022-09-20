@@ -15,11 +15,11 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Light Grey: hsl(217, 12%, 63%)
+- White: hsl(0, 0%, 100%)-Done
+- Light Grey: hsl(217, 12%, 63%)-Done
 - Medium Grey: hsl(216, 12%, 54%)
-- Dark Blue: hsl(213, 19%, 18%)
-- Very Dark Blue: hsl(216, 12%, 8%)
+- Dark Blue: hsl(213, 19%, 18%)-Done
+- Very Dark Blue: hsl(216, 12%, 8%)-Done
 
 ## Typography
 
@@ -29,5 +29,5 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Overpass](https://fonts.google.com/specimen/Overpass)
+- Family: [Overpass](https://fonts.google.com/specimen/Overpass)-Done
 - Weights: 400, 700
